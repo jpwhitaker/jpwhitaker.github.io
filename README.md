@@ -1,0 +1,4 @@
+jpwhitaker.github.io
+====================
+
+blog
